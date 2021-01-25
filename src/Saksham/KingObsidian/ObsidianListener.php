@@ -1,6 +1,6 @@
 <?php
 
-namespace kirito\KingObsidian;
+namespace Saksham\KingObsidian;
 
 use pocketmine\{
     entity\object\PrimedTNT, event\entity\EntityExplodeEvent, event\Listener
