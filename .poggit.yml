@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Demonslayer3861/Obsidian-breaker-TNT
+build-by-default: true
+branches:
+- main
+projects:
+  Obsidian-breaker-TNT:
+    path: ""
+...
